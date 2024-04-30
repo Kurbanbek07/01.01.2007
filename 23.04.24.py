@@ -7,7 +7,7 @@ def find_num(list1):
 
 print(find_num([8, 34, 6, 7, 67, 3, 5, 8]))
 a=6
-print ("элемент саны", a)
+print ("элемент саны",a)
 
 def find_num(list1):
     for i in range(len(list1)):
